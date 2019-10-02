@@ -22,7 +22,7 @@ We can change cursor among multiple split screens.
 	Ctrl + w, W // move to prev
 	Ctrl + w, [H | J | K | L] // move the cursor to a certain direction
 
-###1-4. Screen size
+###1-4. Screen modify
 We can modify each screen's size.
 These are some relative ones.
 
@@ -36,9 +36,13 @@ We can also choose the amount to increase/decrease.
 	Ctrl + w, [n] > // width +n
 	Ctrl + w, [n] < // width -n
 	
+We can also exchange the locations of two screens.
+
+	Ctrl + w, r // exchange this screen location with the next one.
 
 ### 1-5. Quit split
 We can quit one split only, or all together whether you want.
 
 	:q // quit this screen
 	:qa // quit all screens
+	Ctrl + w, o // quit all screens except for current one.
