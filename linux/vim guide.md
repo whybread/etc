@@ -14,6 +14,7 @@ Similarly
 	:vsplit <filename>
 	:vs <filename>
 	:10vs <filename>
+	:vnew <filename>
 
 ### 1-3. Cursor movement
 We can change cursor among multiple split screens.
