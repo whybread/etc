@@ -22,7 +22,7 @@ We can change cursor among multiple split screens.
 	Ctrl + w, W // move to prev
 	Ctrl + w, [H | J | K | L] // move the cursor to a certain direction
 
-###1-4. Screen modify
+### 1-4. Screen modify
 We can modify each screen's size.
 These are some relative ones.
 
