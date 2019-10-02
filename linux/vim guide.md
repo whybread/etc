@@ -29,16 +29,18 @@ These are some relative ones.
 	Ctrl + w, = // same same
 	Ctrl + w, _ // maximize this screen's height.
 	Ctrl + w, | // maximize this screen's width.
-We can also choose the amount to increase/decrease.
+You may give a certain amount to increase/decrease.
 
 	Ctrl + w, [n] + // height +n
 	Ctrl + w, [n] - // height -n
 	Ctrl + w, [n] > // width +n
-	Ctrl + w, [n] < // width -n
-	
-We can also exchange the locations of two screens.
+	Ctrl + w, [n] < // width -n	
+You can also exchange the locations of two screens.
 
 	Ctrl + w, r // exchange this screen location with the next one.
+Etc
+
+	CTRL-W gf //Open a new tab for the file that the cursor is on.
 
 ### 1-5. Quit split
 We can quit one split only, or all together whether you want.
