@@ -1,4 +1,8 @@
 # VIM Guide
+## 0. README
+This document is actually made for myself to remember critical shortcuts, and I recommend you to learn from these webpages first to start vim.
+
+[밤앙개의 vim강좌 01 - 왜 vi를 사용하는가 : 네이버 블로그](http://blog.naver.com/PostView.nhn?blogId=nfwscho&logNo=220340946365&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=2&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=30&userTopListManageOpen=false&userTopListCurrentPage=2)
 
 ## 1. Split Screen
 ### 1-1. Vertical split
