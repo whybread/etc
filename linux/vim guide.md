@@ -4,6 +4,8 @@ This document is actually made for myself to remember critical shortcuts, and I 
 
 [밤앙개의 vim강좌 01 - 왜 vi를 사용하는가 : 네이버 블로그](http://blog.naver.com/PostView.nhn?blogId=nfwscho&logNo=220340946365&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=2&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=30&userTopListManageOpen=false&userTopListCurrentPage=2)
 
+[[번역] Vim 정복하기: 4주 계획 - Junqseob Shin - Medium](https://medium.com/@jungseobshin/vim-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%B2%95-4%EC%A3%BC-%EA%B3%84%ED%9A%8D-77f3f7e263f7)
+
 ## 1. Split Screen
 ### 1-1. Vertical split
 \<filename\> is optional.
