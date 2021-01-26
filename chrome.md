@@ -12,7 +12,8 @@ Useful tips to use Chrome.
 
   The description is in **Reference 02**.
   
-- To auto-run snippets, you need to consider extensions. (at 2021.01.26)
+- To auto-run snippets, you need to consider extensions. (on 2021.01.26)
+
   Please refer to **Reference 03**.
 
 
