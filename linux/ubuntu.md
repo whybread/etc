@@ -36,4 +36,7 @@ When you startup your ubuntu in GUI mode, you will see your all user accounts li
 
 2. Otherwise, you can modify the file: `/etc/lightdm/users.conf`.
 
-> For more information, see this reference: [lightdm - How do I hide a particular user from the login screen? - Ask Ubuntu](https://askubuntu.com/questions/92349/how-do-i-hide-a-particular-user-from-the-login-screen).
+> **Tips**: For more information, see this reference: [lightdm - How do I hide a particular user from the login screen? - Ask Ubuntu](https://askubuntu.com/questions/92349/how-do-i-hide-a-particular-user-from-the-login-screen).
+
+
+> **Tips**: If you want to show a user, refer to this: [login screen - How does &quot;Accounts Service&quot; work with lightdm? - Ask Ubuntu](https://askubuntu.com/questions/98323/how-does-accounts-service-work-with-lightdm).
