@@ -10,11 +10,11 @@ Useful tips to use Chrome.
 
 - What I want to do with the snippets is to copy document title to my clipboard with a simple command.
 
-  The description is in **Reference 02**.
+  The description is in **Reference 2**.
   
 - To auto-run snippets, you need to consider extensions. (on 2021.01.26)
 
-  Please refer to **Reference 03**.
+  Please refer to **Reference 3**.
 
 
 ### References
